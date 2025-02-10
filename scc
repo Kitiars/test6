@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    background-color: #E0FFFF;
+}
+
+header {
+    background-color: #4169E1;
+    color:black ;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header a {
+    color: #000080 ;
+    text-decoration: none;
+    border: 1px solid aqua;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+nav {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #000080 ;
+}
+
+nav a {
+   margin: 40px;
+   font-size: 20px;
+   text-decoration: none;
+   color: #4169E1;
+}
+
+h1 {
+    text-align: center;
+    color: #00FA9A;
+}
+
+footer p {
+    background-color: #4169E1;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+select {
+    margin: 8px;
+    padding: 10px;
+    border: 2px solid aqua;
+    font-size: 20px;
+}
+
+select option {
+    color:#4169E1; ;
+}
